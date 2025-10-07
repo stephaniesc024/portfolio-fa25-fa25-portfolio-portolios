@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Stephanie Cheng
 description              : Stephanie Cheng - Projects and CV 
-baseurl                  : "/fa25-portfolio-stephaniesc024/"
+baseurl                  : "/fa25-portfolio-stephaniesc024-maker/"
 
 # Theme and Style
 theme: jekyll-theme-minimal
